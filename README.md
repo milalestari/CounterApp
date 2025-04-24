@@ -8,7 +8,7 @@ Aplikasi Android sederhana yang dibuat dengan Java dan Android Studio, berfungsi
 
 | Layar Utama |
 |-------------|
-| <img src="screenshot.png" alt="Screenshot Aplikasi" width="300"/> |
+| <img src="screenshot.jpg" alt="Screenshot Aplikasi" width="300"/> |
 
 ---
 
