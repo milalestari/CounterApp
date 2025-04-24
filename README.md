@@ -8,7 +8,7 @@ Aplikasi Android sederhana yang dibuat dengan Java dan Android Studio, berfungsi
 
 | Layar Utama |
 |-------------|
-| ![Screenshot Aplikasi](screenshot.png) |
+| ![Screenshot Aplikasi](screenshot.jpg) |
 
 ---
 
@@ -43,35 +43,7 @@ Aplikasi ini dilengkapi dengan pengujian sebagai berikut:
 
 ## 📁 Struktur Proyek
 
-CounterApp/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── com/
-│   │   │   │       └── example/
-│   │   │   │           └── counterapp/
-│   │   │   │               ├── MainActivity.java
-│   │   │   │               └── Calculator.java
-│   │   │   └── res/
-│   │   │       └── layout/
-│   │   │           └── activity_main.xml
-│   │   ├── test/
-│   │   │   └── java/
-│   │   │       └── com/
-│   │   │           └── example/
-│   │   │               └── counterapp/
-│   │   │                   └── CalculatorTest.java
-│   │   └── androidTest/
-│   │       └── java/
-│   │           └── com/
-│   │               └── example/
-│   │                   └── counterapp/
-│   │                       └── MainActivityTest.java
-│
-├── build.gradle
-├── settings.gradle
-└── README.md
+![image](https://github.com/user-attachments/assets/cbe48e79-1730-423f-98e8-035f3e4fbf0e)
 
 ---
 
